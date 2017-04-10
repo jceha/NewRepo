@@ -4,13 +4,14 @@
 @import "{{ site.theme }}";
 
 
-div{
+#head{
 text-align:center;
 
-}
-div span{
+
+ .span{
 padding:90px 0;
     display:block;
+}
 }
 
 
