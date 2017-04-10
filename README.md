@@ -1,3 +1,9 @@
+# About
+I will start a Ph.D. in the David R. Cheriton School of Computer Science at the University of Waterloo in the Fall of 2017. I graduated with an M.Sc. in Human-Machine Communication from the Univeristy of Groningen (Dept. of Artificial Intelligence) and with a B.Sc. in Cognitive Systems: Cognition and Brain from the University of British Columbia. 
+
+# Research
+## Summary
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jceha/NewRepo/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
