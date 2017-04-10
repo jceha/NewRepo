@@ -13,10 +13,6 @@ padding:90px 0;
     display:block;
 }
 
-img.resize{
-   max-width:50%;
-   max-height:50%;
-}
 
 
 header {
@@ -39,7 +35,9 @@ header {
     font-family: 'Homemade Apple';
     color: #f3f3f3;
     text-shadow: 0px 2px 0px #235796;
-    margin: 0px;
+    /*margin: 0px;*/
+    margin-left: auto;
+    margin-right: auto;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -52,7 +50,10 @@ header {
     color: #d8d8d8;
     text-shadow:rgba(#000, 0.2) 0 1px 0;
     font-size: 14px;
-    margin: 0px;
+    /*margin: 0px;*/
+    margin-left: auto;
+    margin-right: auto;
+
   }
 }
 
