@@ -1,5 +1,5 @@
 # About
-![](https://jceha.github.io/NewRepo/IMG_8751.jpg) I will start a Ph.D. in the David R. Cheriton School of Computer Science at the University of Waterloo in the Fall of 2017. I graduated with an M.Sc. in Human-Machine Communication _cum laude_ from the Univeristy of Groningen (Dept. of Artificial Intelligence) and with a B.Sc. in Cognitive Systems: Cognition and Brain from the University of British Columbia. 
+![](https://jceha.github.io/NewRepo/Portrait.png) I will start a Ph.D. in the David R. Cheriton School of Computer Science at the University of Waterloo in the Fall of 2017. I graduated with an M.Sc. in Human-Machine Communication _cum laude_ from the Univeristy of Groningen (Dept. of Artificial Intelligence) and with a B.Sc. in Cognitive Systems: Cognition and Brain from the University of British Columbia. 
 
 
 
