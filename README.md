@@ -1,5 +1,5 @@
 # About
-I will start a Ph.D. in the David R. Cheriton School of Computer Science at the University of Waterloo in the Fall of 2017. I graduated with an M.Sc. in Human-Machine Communication _cum laude_ from the Univeristy of Groningen (Dept. of Artificial Intelligence) and with a B.Sc. in Cognitive Systems: Cognition and Brain from the University of British Columbia. 
+![](https://jceha.github.io/NewRepo/IMG_8751.jpg) I will start a Ph.D. in the David R. Cheriton School of Computer Science at the University of Waterloo in the Fall of 2017. I graduated with an M.Sc. in Human-Machine Communication _cum laude_ from the Univeristy of Groningen (Dept. of Artificial Intelligence) and with a B.Sc. in Cognitive Systems: Cognition and Brain from the University of British Columbia. 
 
 
 
@@ -9,8 +9,7 @@ My main interests lie in the advancement of the neuroscience and human-machine i
 
 ## Publications
 ### Journal
-Work in progress:
-
+**Work in Progress:**
 Luckmann, A., Ceha, J.M., Gaudrain, E., Tamati, T.N., & Baskent, D. (2017). _Bimodal benefit of adding acoustic low-frequency speech information on discrimination of voice cues in spectro-temporally degraded speech._ 
 
 ### Thesis
