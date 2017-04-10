@@ -8,7 +8,7 @@
 
 
 header {
-  padding: 25px 20px 40px 20px;
+  /*padding: 25px 20px 40px 20px;*/
   margin: 0;
   position: fixed;
   top: 0;
@@ -61,7 +61,7 @@ header {
     background: #FA8072;
     border-radius: 2px;
     box-shadow: inset 0px 1px 0px rgba(255,255,255,.4), 0px 1px 1px rgba(0,0,0,.1);
-    background-color: #FFE788;
+    background-color: #FA8072;
     margin-left: 5px;
     padding: 10px 12px;
     margin-top: 6px;
@@ -74,19 +74,17 @@ header {
 
     &:hover {
       background: linear_gradient(rgb(255, 231, 136), rgb(255, 231, 136));
-      background-color: #ffeca0;
+      background-color: #FFA07A;
     }
   }
 
   .fork {
-    position:fixed;
-    right:50%;
-    margin-left:-325px;
+    float:right;
     padding: 10px 12px;
     margin-top: 6px;
     line-height:14px;
     font-size:14px;
-    background-color: #FFE788;
+    background-color: #FA8072;
   }
 
   .downloads {
