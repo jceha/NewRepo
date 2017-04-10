@@ -3,6 +3,34 @@ I will start a Ph.D. in the David R. Cheriton School of Computer Science at the 
 
 # Research
 ## Summary
+My main interests lie in the advancement of the neuroscience and human-machine interaction fields. My current research interest is specifically on curiosity and human-robot interaction.
+
+## Publications
+### Journal
+Work in progress:
+Luckmann, A., Ceha, J.M., Gaudrain, E., Tamati, T.N., & Baskent, D. (2017). Bimodal benefit of adding acoustic low-frequency speech information on discrimination of voice cues in spectro-temporally degraded speech. 
+
+### Thesis
+Ceha, J.M. (2016). Investigation into the Enhancement of Voice Perception: with simulations of cochlear implants and bimodal hearing. [pdf] (https://jceha.github.io/NewRepo/J.M.CEHA_MasterThesis2016.pdf)
+
+
+## Conferences
+- Attending CHI 2017 + Curiosity Workshop
+
+- Theta-band phase locking after attentional blink training. Poster presentation at the 15th NVP Winter Conference on Cognition, Brain, and Behaviour. Egmond aan Zee, the Netherlands. December 2015
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Welcome to GitHub Pages
 
