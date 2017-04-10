@@ -1,5 +1,7 @@
 # About
-I will start a Ph.D. in the David R. Cheriton School of Computer Science at the University of Waterloo in the Fall of 2017. I graduated with an M.Sc. in Human-Machine Communication from the Univeristy of Groningen (Dept. of Artificial Intelligence) and with a B.Sc. in Cognitive Systems: Cognition and Brain from the University of British Columbia. 
+I will start a Ph.D. in the David R. Cheriton School of Computer Science at the University of Waterloo in the Fall of 2017. I graduated with an M.Sc. in Human-Machine Communication _cum laude_ from the Univeristy of Groningen (Dept. of Artificial Intelligence) and with a B.Sc. in Cognitive Systems: Cognition and Brain from the University of British Columbia. 
+
+
 
 # Research
 ## Summary
@@ -8,64 +10,16 @@ My main interests lie in the advancement of the neuroscience and human-machine i
 ## Publications
 ### Journal
 Work in progress:
-Luckmann, A., Ceha, J.M., Gaudrain, E., Tamati, T.N., & Baskent, D. (2017). Bimodal benefit of adding acoustic low-frequency speech information on discrimination of voice cues in spectro-temporally degraded speech. 
+
+Luckmann, A., Ceha, J.M., Gaudrain, E., Tamati, T.N., & Baskent, D. (2017). _Bimodal benefit of adding acoustic low-frequency speech information on discrimination of voice cues in spectro-temporally degraded speech._ 
 
 ### Thesis
-Ceha, J.M. (2016). Investigation into the Enhancement of Voice Perception: with simulations of cochlear implants and bimodal hearing. [pdf] (https://jceha.github.io/NewRepo/J.M.CEHA_MasterThesis2016.pdf)
+Ceha, J.M. (2016). _Investigation into the Enhancement of Voice Perception: with simulations of cochlear implants and bimodal hearing._ [pdf](https://jceha.github.io/NewRepo/J.M.CEHA_MasterThesis2016.pdf)
 
 
-## Conferences
+
+# Conferences
 - Attending CHI 2017 + Curiosity Workshop
 
-- Theta-band phase locking after attentional blink training. Poster presentation at the 15th NVP Winter Conference on Cognition, Brain, and Behaviour. Egmond aan Zee, the Netherlands. December 2015
+- _Theta-band phase locking after attentional blink training._ Poster presentation at the 15th NVP Winter Conference on Cognition, Brain, and Behaviour. Egmond aan Zee, the Netherlands. December 2015
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/jceha/NewRepo/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jceha/NewRepo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
