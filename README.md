@@ -27,15 +27,15 @@ Ceha, J.M. (2016). _Investigation into the Enhancement of Voice Perception: with
 # Previous Projects
 **May 2016 - July 2016**
 _Department of Otorhinolaryngology (Audiology), University Medical Centre Groningen_
-* Conducted psychoacoustic experiment on voice perception with cochlear implant (CI) and hearing aid simulations. Results show a bimodal hearing benefit which is limited to fundamental frequency perception. The study is currently being written up for publication.
+Conducted psychoacoustic experiment on voice perception with cochlear implant (CI) and hearing aid simulations. Results show a bimodal hearing benefit which is limited to fundamental frequency perception. The study is currently being written up for publication.
 
 
 **October 2016 - May 2016**
 _Department of Experimental Psychology, University of Groningen_
-* Developed and pilot tested an electroencephalography (EEG) based neurofeedback system for improving speech perception in CI users. Results indicate a necessity for further research on event-related potentials, specifically the P300 waveform, elicited by non-word, vocoded speech stimuli.
+Developed and pilot tested an electroencephalography (EEG) based neurofeedback system for improving speech perception in CI users. Results indicate a necessity for further research on event-related potentials, specifically the P300 waveform, elicited by non-word, vocoded speech stimuli.
 
 
 **April 2015 - December 2015**
 _Institute of Artificial Intelligence and Cognitive Engineering, University of Groningen_
-*EEG study on theta oscillation phase-locking after attentional blink (AB) training. After training away the AB, no significant increase found in theta oscillation phase-locking.
+EEG study on theta oscillation phase-locking after attentional blink (AB) training. After training away the AB, no significant increase found in theta oscillation phase-locking.
 
