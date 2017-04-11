@@ -9,7 +9,7 @@ I have a **B.Sc.** in Cognitive Systems: Cognition and Brain from the University
 
 # Research
 ## Summary
-My main interests lie in the advancement of the neuroscience and human-machine interaction fields. I am intruiged by cognition and by increasing our understanding of it I would like to apply the knowledge to improve the communcation between humans and computers. Such topics as brain-computer interfaces and human-robot interaction interest me. The topic of my Ph.D. will focus specifically on curiosity and its application in the robotics field.
+My main interests lie in the advancement of the neuroscience and human-machine interaction fields. I am intruiged by cognition and by increasing our understanding of it I would like to apply the knowledge to improving the communcation between humans and computers. Such topics as brain-computer interfaces and human-robot interaction interest me. The topic of my Ph.D. will focus specifically on curiosity and its application in the robotics field.
 
 ## Publications
 ### Journals
@@ -17,7 +17,7 @@ My main interests lie in the advancement of the neuroscience and human-machine i
 Luckmann, A., Ceha, J.M., Gaudrain, E., Tamati, T.N., & Baskent, D. (2017). _Bimodal benefit of adding acoustic low-frequency speech information on discrimination of voice cues in spectro-temporally degraded speech._ 
 
 ### Thesis
-Ceha, J.M. (2016). _Investigation into the Enhancement of Voice Perception: with simulations of cochlear implants and bimodal hearing._ [pdf](https://jceha.github.io/NewRepo/J.M.Ceha_MasterThesis2016.pdf)
+Ceha, J.M. (2016). _Investigation into the Enhancement of Voice Perception: with simulations of cochlear implants and bimodal hearing._ (Master's thesis) [pdf](https://jceha.github.io/NewRepo/J.M.Ceha_MasterThesis2016.pdf)
 
 ## Conferences
 - Attending CHI 2017 in Denver, Colorado + Designing for Curiosity Workshop @ CHI 2017 on May 7th
