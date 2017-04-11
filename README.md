@@ -30,7 +30,7 @@ _Department of Otorhinolaryngology (Audiology), University Medical Centre Gronin
 Conducted psychoacoustic experiment on voice perception with cochlear implant (CI) and hearing aid simulations. Results show a bimodal hearing benefit which is limited to fundamental frequency perception. The study is currently being written up for publication.
 
 
-**October 2016 - May 2016**
+**October 2015 - May 2016**
 _Department of Experimental Psychology, University of Groningen_
 Developed and pilot tested an electroencephalography (EEG) based neurofeedback system for improving speech perception in CI users. Results indicate a necessity for further research on event-related potentials, specifically the P300 waveform, elicited by non-word, vocoded speech stimuli.
 
