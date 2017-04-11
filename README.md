@@ -1,9 +1,9 @@
 # About
-I will start a Ph.D. in the David R. Cheriton School of Computer Science at the University of Waterloo in the Fall of 2017. I'll be working in the Human-Computer Interaction Lab with Dr. Edith Law. 
+I will start a **Ph.D.** in the David R. Cheriton School of Computer Science at the University of Waterloo in the Fall of 2017. I'll be working in the Human-Computer Interaction Lab with Dr. Edith Law. 
 
-I graduated with an M.Sc. in Human-Machine Communication _cum laude_ from the Univeristy of Groningen (Dept. of Artificial Intelligence). Alongside the normal master, I completed the Honours Master 'High Tech Systems and Materials' for which I interned at Philips Consumer Lifestyle in Drachten, the Netherlands, and completed a number of masterclasses and personal development workshops.
+I graduated with an **M.Sc.** in Human-Machine Communication _cum laude_ from the Univeristy of Groningen (Dept. of Artificial Intelligence). Alongside the normal master, I completed the Honours Master 'High Tech Systems and Materials' for which I interned at Philips Consumer Lifestyle in Drachten, the Netherlands, and completed a number of masterclasses and personal development workshops.
 
-I have a B.Sc. in Cognitive Systems: Cognition and Brain from the University of British Columbia. 
+I have a **B.Sc.** in Cognitive Systems: Cognition and Brain from the University of British Columbia. 
 
 
 
