@@ -25,17 +25,18 @@ Ceha, J.M. (2016). _Investigation into the Enhancement of Voice Perception: with
 - _Theta-band phase locking after attentional blink training._ Poster presentation at the 15th NVP Winter Conference on Cognition, Brain, and Behaviour. Egmond aan Zee, the Netherlands. December 2015
 
 # Previous Projects
-## May 2016 - July 2016
+## Psychoacoustic Experiment on Voice Perception
+### May 2016 - July 2016
 _Department of Otorhinolaryngology (Audiology), University Medical Centre Groningen_
 Conducted psychoacoustic experiment on voice perception with cochlear implant (CI) and hearing aid simulations. Results show a bimodal hearing benefit which is limited to fundamental frequency perception. The study is currently being written up for publication.
 
-
-## October 2015 - May 2016
+## EEG-based Neurofeedback System (Brain-Computer Interface)
+### October 2015 - May 2016
 _Department of Experimental Psychology, University of Groningen_
 Developed and pilot tested an electroencephalography (EEG) based neurofeedback system for improving speech perception in CI users. Results indicate a necessity for further research on event-related potentials, specifically the P300 waveform, elicited by non-word, vocoded speech stimuli.
 
-
-## April 2015 - December 2015
+## EEG study on Theta Oscillation Phase-Locking
+### April 2015 - December 2015
 _Institute of Artificial Intelligence and Cognitive Engineering, University of Groningen_
 EEG study on theta oscillation phase-locking after attentional blink (AB) training. After training away the AB, no significant increase found in theta oscillation phase-locking.
 
