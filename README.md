@@ -9,7 +9,7 @@ I have a **B.Sc.** in Cognitive Systems: Cognition and Brain from the University
 
 # Research
 ## Summary
-My main interests lie in the advancement of the neuroscience and human-machine interaction fields. I am intruiged by cognition and by increasing our understanding of it I would like to apply the knowledge to improving the communcation between humans and computers. Such topics as brain-computer interfaces and human-robot interaction interest me. The topic of my Ph.D. will focus specifically on curiosity and its application in the robotics field.
+My main interests lie in the advancement of the neuroscience and human-machine interaction fields. I am intruiged by cognition and by increasing our understanding of it I would like to apply that knowledge to improving the communcation between humans and computers. Such topics as brain-computer interfaces and human-robot interaction interest me. The focus of my Ph.D. will be on curiosity and its application in the robotics field.
 
 ## Publications
 ### Journals
