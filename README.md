@@ -31,12 +31,12 @@ Ceha, J.M. (2016). _Investigation into the Enhancement of Voice Perception: with
 
 # Previous Projects
 ## Psychoacoustic Experiment on Voice Perception
-### Deptartment of Otorhinolaryngology (Audiology), University Medical Centre Groningen
+### Department of Otorhinolaryngology (Audiology), University Medical Centre Groningen
 _Speech Perception Lab - Dr. Deniz Baskent (co-supervisor: Dr. Marieke van Vugt)_ 
 - Psychoacoustic experiment on voice perception with cochlear implant (CI) and hearing aid simulations. Results show a bimodal hearing benefit which is limited to fundamental frequency perception. The study is currently being written up for publication.
 
 ## EEG-based Neurofeedback System (Brain-Computer Interface)
-### Deptartment of Experimental Psychology, University of Groningen
+### Department of Experimental Psychology, University of Groningen
 _Belief, Perception, and Cognition Lab - Dr. Jacob Jolij (co-supervisors: Dr. Deniz Baskent & Dr. Marieke van Vugt)_ 
 - Developed and pilot tested an electroencephalography (EEG) based neurofeedback system for improving speech perception in CI users. Results indicate a necessity for further research on event-related potentials, specifically the P300 waveform, elicited by non-word, vocoded speech stimuli.
 
