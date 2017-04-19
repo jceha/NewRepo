@@ -1,11 +1,11 @@
 # About
-- Starting September 2017 - Ph.D. in the David R. Cheriton School of Computer Science, University of Waterloo
+- **Starting September 2017** Ph.D. in the David R. Cheriton School of Computer Science, University of Waterloo
 
-- 2014-2016 - M.Sc. in Human-Machine Communication _cum laude_, University of Groningen 
+- **2014-2016** M.Sc. in Human-Machine Communication _cum laude_, University of Groningen 
 
-- 2014-2016 - Honours Master ‘High Tech Systems and Materials’, University of Groningen
+- **2014-2016** Honours Master ‘High Tech Systems and Materials’, University of Groningen
 
-- 2009-2014 - B.Sc. in Cognitive Systems: Cognition and Brain, University of British Columbia
+- **2009-2014** B.Sc. in Cognitive Systems: Cognition and Brain, University of British Columbia
 
 
 # Research
@@ -31,17 +31,17 @@ Ceha, J.M. (2016). _Investigation into the Enhancement of Voice Perception: with
 
 # Previous Projects
 ## Psychoacoustic Experiment on Voice Perception
-### Department of Otorhinolaryngology (Audiology), University Medical Centre Groningen [May 2016 - July 2016]
+### Department of Otorhinolaryngology (Audiology), University Medical Centre Groningen
 _Speech Perception Lab - Dr. Deniz Baskent (co-supervisor: Dr. Marieke van Vugt)_ 
 - Psychoacoustic experiment on voice perception with cochlear implant (CI) and hearing aid simulations. Results show a bimodal hearing benefit which is limited to fundamental frequency perception. The study is currently being written up for publication.
 
 ## EEG-based Neurofeedback System (Brain-Computer Interface)
-### Department of Experimental Psychology, University of Groningen [October 2015 - May 2016]
+### Department of Experimental Psychology, University of Groningen
 _Belief, Perception, and Cognition Lab - Dr. Jacob Jolij (co-supervisors: Dr. Deniz Baskent & Dr. Marieke van Vugt)_ 
 - Developed and pilot tested an electroencephalography (EEG) based neurofeedback system for improving speech perception in CI users. Results indicate a necessity for further research on event-related potentials, specifically the P300 waveform, elicited by non-word, vocoded speech stimuli.
 
 ## EEG study on Theta Oscillation Phase-Locking
-### Institute of Artificial Intelligence and Cognitive Engineering, University of Groningen [April 2015 - December 2015]
+### Institute of Artificial Intelligence and Cognitive Engineering, University of Groningen
 _Cognitive Modelling Group - Dr. Marieke van Vugt_ 
 - EEG study on theta oscillation phase-locking after attentional blink (AB) training. After training away the AB, no significant increase found in theta oscillation phase-locking.
 
