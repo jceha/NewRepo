@@ -1,11 +1,11 @@
 # About
-- **Starting September 2017**  Ph.D. in the David R. Cheriton School of Computer Science, University of Waterloo
+- Starting September 2017**  Ph.D. in the David R. Cheriton School of Computer Science, University of Waterloo**
 
-- **2014-2016**  M.Sc. in Human-Machine Communication _cum laude_, University of Groningen 
+- 2014-2016**  M.Sc. in Human-Machine Communication _cum laude_, University of Groningen** 
 
-- **2014-2016**  Honours Master ‘High Tech Systems and Materials’, University of Groningen
+- 2014-2016**  Honours Master ‘High Tech Systems and Materials’, University of Groningen**
 
-- **2009-2014**  B.Sc. in Cognitive Systems: Cognition and Brain, University of British Columbia
+- 2009-2014**  B.Sc. in Cognitive Systems: Cognition and Brain, University of British Columbia**
 
 
 # Research
