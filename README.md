@@ -8,6 +8,7 @@
 - **2009-2014** B.Sc. in Cognitive Systems: Cognition and Brain, University of British Columbia
 
 
+
 # Research
 ## Interests
 My research interests lie in cognitive neuroscience and human-computer interaction. By increasing our understanding of cognition I would like to develop innovative, intuitive interfaces. I am particularly interested in brain-computer interfaces and human-robot interaction. The focus of my Ph.D. will be on curiosity and its application to robotics.
@@ -27,6 +28,8 @@ Ceha, J.M. (2016). _Investigation into the Enhancement of Voice Perception: with
 - _Theta-band phase locking after attentional blink training._ Poster presentation at the 15th NVP Winter Conference on Cognition, Brain, and Behaviour. Egmond aan Zee, the Netherlands. December 2015
 
 
+
+
 # Previous Projects
 ## Psychoacoustic Experiment on Voice Perception
 ### Department of Otorhinolaryngology (Audiology), University Medical Centre Groningen
@@ -42,6 +45,9 @@ _Belief, Perception, and Cognition Lab - Dr. Jacob Jolij (co-supervisors: Dr. De
 ### Institute of Artificial Intelligence and Cognitive Engineering, University of Groningen
 _Cognitive Modelling Group - Dr. Marieke van Vugt_ 
 - EEG study on theta oscillation phase-locking after attentional blink (AB) training. After training away the AB, no significant increase found in theta oscillation phase-locking.
+
+
+
 
 # Useful Links
 ### University of Waterloo, Canada
