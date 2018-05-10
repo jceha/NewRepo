@@ -1,5 +1,9 @@
 # About
+<<<<<<< HEAD
 - **2017-2021** Ph.D. in the David R. Cheriton School of Computer Science: Human-Computer Interaction, University of Waterloo, Canada
+=======
+- **September 2017-2021** Ph.D. in the David R. Cheriton School of Computer Science, University of Waterloo
+>>>>>>> origin/gh-pages
 
 - **2014-2016** M.Sc. in Human-Machine Communication _cum laude_, University of Groningen, the Netherlands 
 
@@ -8,11 +12,16 @@
 - **2009-2014** B.Sc. in Cognitive Systems: Cognition and Brain, University of British Columbia, Canada
 
 
+
 # Research
 ## Interests
+<<<<<<< HEAD
 My research interests lie in the advancement of the cognitive neuroscience and human-machine interaction fields. Intruiged by cognition and by increasing our understanding of it, I would like to apply that knowledge to improving the communcation between humans and computers.
 
 I am fascinated by brain-computer interfaces and human-robot interaction. The focus of my Ph.D. is currently on curiosity and its application to educational social robotics.
+=======
+My research interests lie in cognitive neuroscience and human-computer interaction. By increasing our understanding of cognition I would like to develop innovative, intuitive interfaces. I am particularly interested in brain-computer interfaces and human-robot interaction. The focus of my Ph.D. will be on curiosity and its application to robotics.
+>>>>>>> origin/gh-pages
 
 
 ## Publications
@@ -26,12 +35,15 @@ Ceha, J.M. (2016). _Investigation into the Enhancement of Voice Perception: with
 - _Theta-band phase locking after attentional blink training._ Poster presentation at the 15th NVP Winter Conference on Cognition, Brain, and Behaviour. Egmond aan Zee, the Netherlands. December 2015
 
 
+<<<<<<< HEAD
 # Current Projects
 ## Curious Robots
 ### Department of Computer Science, Human-Computer Interaction Lab - Dr. Edith Law
 
 ## Co-designing educational student peer with teachers
 ### Department of Computer Science, Human-Computer Interaction Lab - Dr. Edith Law
+=======
+>>>>>>> origin/gh-pages
 
 
 # Previous Projects
@@ -49,6 +61,9 @@ _Belief, Perception, and Cognition Lab - Dr. Jacob Jolij (co-supervisors: Dr. De
 ### Institute of Artificial Intelligence and Cognitive Engineering, University of Groningen
 _Cognitive Modelling Group - Dr. Marieke van Vugt_ 
 - EEG study on theta oscillation phase-locking after attentional blink (AB) training. After training away the AB, no significant increase found in theta oscillation phase-locking.
+
+
+
 
 # Useful Links
 ### University of Waterloo, Canada
