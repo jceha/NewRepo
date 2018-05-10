@@ -1,32 +1,37 @@
 # About
-- **Starting September 2017** Ph.D. in the David R. Cheriton School of Computer Science, University of Waterloo
+- **2017-2021** Ph.D. in the David R. Cheriton School of Computer Science: Human-Computer Interaction, University of Waterloo, Canada
 
-- **2014-2016** M.Sc. in Human-Machine Communication _cum laude_, University of Groningen 
+- **2014-2016** M.Sc. in Human-Machine Communication _cum laude_, University of Groningen, the Netherlands 
 
-- **2014-2016** Honours Master ‘High Tech Systems and Materials’, University of Groningen
+- **2014-2016** Honours Master ‘High Tech Systems and Materials’, University of Groningen, the Netherlands
 
-- **2009-2014** B.Sc. in Cognitive Systems: Cognition and Brain, University of British Columbia
+- **2009-2014** B.Sc. in Cognitive Systems: Cognition and Brain, University of British Columbia, Canada
 
 
 # Research
 ## Interests
-My main research interests lie in the advancement of the cognitive neuroscience and human-machine interaction fields. I am intruiged by cognition and by increasing our understanding of it I would like to apply that knowledge to improving the communcation between humans and computers.
+My research interests lie in the advancement of the cognitive neuroscience and human-machine interaction fields. Intruiged by cognition and by increasing our understanding of it, I would like to apply that knowledge to improving the communcation between humans and computers.
 
-Such topics as brain-computer interfaces and human-robot interaction interest me. The focus of my Ph.D. will be on curiosity and its application to robotics.
+I am fascinated by brain-computer interfaces and human-robot interaction. The focus of my Ph.D. is currently on curiosity and its application to educational social robotics.
 
 
 ## Publications
 ### Journals
-**Work in Progress:**
-Luckmann, A., Ceha, J.M., Gaudrain, E., Tamati, T.N., & Baskent, D. (2017). _Bimodal benefit of adding acoustic low-frequency speech information on discrimination of voice cues in spectro-temporally degraded speech._ 
+Başkent, D., Luckmann, A., Ceha, J., Gaudrain, E., & Tamati, T. N. (2018). The discrimination of voice cues in simulations of bimodal electro-acoustic cochlear-implant hearing. _The Journal of the Acoustical Society of America, 143_(4), EL292-EL297.
 
 ### Thesis
 Ceha, J.M. (2016). _Investigation into the Enhancement of Voice Perception: with simulations of cochlear implants and bimodal hearing._ (Master's thesis) [pdf](https://jceha.github.io/NewRepo/J.M.Ceha_MasterThesis2016.pdf)
 
 ### Conferences
-- Attending CHI 2017 in Denver, Colorado + Designing for Curiosity Workshop @ CHI 2017 on May 7th
-
 - _Theta-band phase locking after attentional blink training._ Poster presentation at the 15th NVP Winter Conference on Cognition, Brain, and Behaviour. Egmond aan Zee, the Netherlands. December 2015
+
+
+# Current Projects
+## Curious Robots
+### Department of Computer Science, Human-Computer Interaction Lab - Dr. Edith Law
+
+## Co-designing educational student peer with teachers
+### Department of Computer Science, Human-Computer Interaction Lab - Dr. Edith Law
 
 
 # Previous Projects
